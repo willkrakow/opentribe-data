@@ -1,0 +1,85 @@
+/*
+  Add any fields or nested data structures that you want.
+*/
+
+exports.account_info_credentials = {
+  // ex: medium.com should have a PlantPure account
+  //     and i'll need the login/any availabel api keys, etc
+};
+
+exports.ideas_for_login_marketing = {
+
+};
+
+exports.general_content = {
+  home_page_banner_image: '',
+  browse_projects_banner_image: '',
+  link_to_plantpure_intro_video: '',
+  link_to_mission_video: ''
+};
+
+exports.remote_events = [
+  {
+    title: '',
+    start: '', // use a human readable date, best guess, or leave blank
+    description: '',
+    link: '',
+    link_to_album: ''
+  }
+];
+
+exports.projects = [
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    resource_link: '',
+    strategy_overview_link: '',
+    cover_image: '',
+    title: '',
+    video_link: ''
+  }
+]
+
+exports.sponsors = [
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: '',
+    description: '',
+    link: '',
+    cover_image: '',
+    link_to_album: ''
+  }
+];
+
+exports.media = [
+  {
+    image_aspect: {
+      width: 4,
+      height: 1
+    },
+    title: '',
+    description: '',
+    link: '',
+    cover_image: '',
+    link_to_album: ''
+  }
+];
+
+exports.blogs = [
+  {
+    image_aspect: {
+      width: 2,
+      height: 1
+    },
+    note: 'Ex. This should display on the home page banner left button',
+    title: '',
+    description: '',
+    link: '',
+    cover_image: ''
+  }
+];
