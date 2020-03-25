@@ -1,0 +1,10 @@
+Suggestions
+    Add a footer with the OpenTribe and PlantPure logos, "About" and "Contact" links
+    On the "Mission" Modal, add the PlantPure and OpenTribe logos at the top
+        Add "- Nelson Campbell, Founder & CEO" at the bottom in gray text
+        Link "PlantPure foods business" to plantpurenation.com
+        Link "Science now shows..." to academic studies
+    Add icons to menu options
+    For login and signup screens, add background nature photos
+        Brian's photos: https://drive.google.com/drive/folders/1HltOCu12gl5B_vwDneu05j1lCPhRSOjV?usp=sharing
+    
