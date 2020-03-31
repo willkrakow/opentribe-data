@@ -147,9 +147,64 @@ exports.sponsors = [
       width: 3,
       height: 1
     },
-    name: '',
-    description: '',
-    link: '',
+    name: 'PlantPure Communities',
+    description: 'PPC offers programs, resources, tools, and knowledge to empower community leaders, activists, and advocates, in order to help educate people about evidence-based nutrition that shows that optimal health may be achieved through a whole food, plant-based (WFPB) diet',
+    link: 'https://plantpurecommunities.org/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: 'Center for Nutrition Studies',
+    description: 'At the T. Colin Campbell Center for Nutrition Studies, we believe that you have the right to better health and better information. We advocate for evidence-based education and resources. The cornerstone of this education is our Plant-Based Nutrition Certificate program in partnership with eCornell featuring lectures from over 20 MDs, PhDs, RDs, RNs and more. We also offer a wide variety of plant-based resources through our website including hundreds of articles, recipes, videos and more.',
+    link: 'https://nutritionstudies.org/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: 'The Plantrician Project',
+    description: 'The mission of the Plantrician Project is to educate, equip and empower our physicians, healthcare providers and other healing influencers with knowledge about the indisputable benefits of whole food plant-based nutrition.',
+    link: 'https://plantricianproject.org/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: 'PlantPure, Inc.',
+    description: 'PlantPure sells whole food, plant-based meals nationwide and has committed to donating 50% of future profits to organizations that are building a plant-based world.',
+    link: 'https://plantpurenation.com/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: 'Balanced',
+    description: 'Balanced is a network of public health professionals, nutrition science experts, and everyday people from around the world fighting for a healthier food system one menu at a time.',
+    link: 'https://balanced.org/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 3,
+      height: 1
+    },
+    name: 'Physicians Committee for Responsible Medicine',
+    description: 'The Physicians Committee combines the clout and expertise of more than 12,000 physicians with the dedicated actions of more than 175,000 members across the United States and around the world.',
+    link: 'https://pcrm.org/',
     cover_image: '',
     link_to_album: ''
   }
@@ -161,9 +216,20 @@ exports.media_links = [
       width: 4,
       height: 1
     },
-    title: '',
-    description: '',
-    link: '',
+    title: 'The Beet',
+    description: 'We\'re a new plant-based platform where food, health, news, reviews, expert advice and the culture meet. The Beet covers everything from restaurants to eat vegan near you, to the latest food products that make it even easier to eat plant-based, to which whole foods to eat daily to get the right amount of protein, iron and other essential nutrients.',
+    link: 'https://thebeet.com/',
+    cover_image: '',
+    link_to_album: ''
+  },
+  {
+    image_aspect: {
+      width: 4,
+      height: 1
+    },
+    title: 'Forks Over Knives',
+    description: 'Forks Over Knives empowers people to live healthier lives by changing the way the world understands nutrition.',
+    link: 'https://forksoverknives.com/',
     cover_image: '',
     link_to_album: ''
   }
@@ -189,9 +255,42 @@ exports.media_announcements = [
         width: 4,
         height: 1
       },
-      title: '',
+      title: 'Cooking up health for low-income communities',
+      description: 'Nelson Campbell, founder and CEO of PlantPure and director of PlantPure Nation, travels to the Vatican to share the plant-based message with top advisors to Pope Francis.',
+      link: 'https://www.romereports.com/en/2020/03/01/cooking-up-health-for-low-income-communities/',
+      cover_image: '',
+      link_to_album: ''
+    },
+    {
+      image_aspect: {
+        width: 4,
+        height: 1
+      },
+      title: 'PlantPure Stories: For Health Improvement',
+      description: 'Nelson Campbell, founder and CEO of PlantPure and director of PlantPure Nation, travels to the Vatican to share the plant-based message with top advisors to Pope Francis.',
+      link: 'https://www.youtube.com/watch?v=FOyZUI2kcHk',
+      cover_image: '',
+      link_to_album: ''
+    },
+    {
+      image_aspect: {
+        width: 4,
+        height: 1
+      },
+      title: 'PlantPure Stories: A Healthy Future',
       description: '',
-      link: '',
+      link: 'https://www.youtube.com/watch?v=s9AAlKThzME',
+      cover_image: '',
+      link_to_album: ''
+    },
+    {
+      image_aspect: {
+        width: 4,
+        height: 1
+      },
+      title: 'PlantPure Stories: Physically and Emotionally Better',
+      description: '',
+      link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
       cover_image: '',
       link_to_album: ''
     }
