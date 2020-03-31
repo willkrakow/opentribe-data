@@ -31,10 +31,17 @@ exports.general_content = {
 
 exports.remote_events = [
   {
-    title: '',
-    start: '', // use a human readable date, best guess, or leave blank
-    description: '',
-    link: '',
+    title: 'PlantPure Health Seminar Presentation - Denver',
+    start: 'August 3, 2020 at 6:30pm', // use a human readable date, best guess, or leave blank
+    description: 'Join us and learn how a plant-based diet can improve your energy levels, mental clarity, and athletic performance. We hope to see you there!',
+    link: 'https://zoom.com/',
+    link_to_album: ''
+  },
+  {
+    title: 'Dr. Campbell on the link between COVID-19 and diet',
+    start: 'July 9, 2020 at 12:30pm', // use a human readable date, best guess, or leave blank
+    description: 'Dr. T. Colin Campbell discusses the novel coronavirus, COVID-19, and how diet can affect your risk of severe infection.',
+    link: 'https://zoom.com/',
     link_to_album: ''
   }
 ];
