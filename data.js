@@ -293,6 +293,17 @@ exports.media_announcements = [
       link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
       cover_image: '',
       link_to_album: ''
+    },
+    {
+      image_aspect: {
+        width: 4,
+        height: 1
+      },
+      title: 'Confronting Reductionism Webinar',
+      description: '',
+      link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
+      cover_image: '',
+      link_to_album: ''
     }
   ];
 
