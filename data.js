@@ -24,7 +24,7 @@ exports.ideas_for_login_marketing = {
 exports.general_content = {
   home_page_banner_image: '',
   browse_projects_banner_image: '',
-  link_to_plantpure_intro_video: '',
+  link_to_plantpure_intro_video: 'https://www.youtube.com/watch?v=k_IvIwQBIwg',
   link_to_mission_video: 'https://youtu.be/vp5dJ-O-AQg',
   link_to_opentribe_intro: 'https://youtu.be/wjOCXgUYvhU'
 };
@@ -78,7 +78,7 @@ exports.projects = [
     strategy_overview_link: 'https://drive.google.com/open?id=1E_yNBLGxHGD_dURDK-fHiHPGRCf9utpG',
     cover_image: 'https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     title: 'Healthcare Providers',
-    video_link: ''
+    video_link: 'https://www.youtube.com/watch?v=XmPFF_KFWYk'
   },
   {
     image_aspect: {
@@ -118,30 +118,30 @@ exports.projects = [
       width: 3,
       height: 1
     },
-    resource_link: '',
-    strategy_overview_link: '',
+    resource_link: 'https://drive.google.com/open?id=1FCFKTVj1_luwvdIsf3PSs6Hk0h_hGXEw',
+    strategy_overview_link: 'https://drive.google.com/open?id=1OtFy0Dq3QGRxgxs-vJFdXYZzRbWtm8cx',
     cover_image: 'https://cdn.pixabay.com/photo/2015/12/01/20/28/green-1072828_1280.jpg',
     title: 'Reforestation Campaign',
-    video_link: 'https://youtu.be/WZsFNECR3xs'
+    video_link: 'https://www.youtube.com/watch?v=WZsFNECR3xs'
   },
   {
     image_aspect: {
       width: 3,
       height: 1
     },
-    resource_link: '',
-    strategy_overview_link: '',
+    resource_link: 'https://drive.google.com/open?id=18I49XRb7t9gziFvHoQQyz6dtXvQvPMy5',
+    strategy_overview_link: 'https://drive.google.com/open?id=1NqAAyylrQNpvftINA4-c_waUptx4QimQ',
     cover_image: '',
     title: 'Oasis',
-    video_link: 'https://youtu.be/SVtSMXXQHZU'
+    video_link: 'https://www.youtube.com/watch?v=SVtSMXXQHZU'
   },
   {
     image_aspect: {
       width: 3,
       height: 1
     },
-    resource_link: '',
-    strategy_overview_link: '',
+    resource_link: 'https://drive.google.com/open?id=1eN08fCoCAk_Oq2K-Y8xlcS3Fary1RkBP',
+    strategy_overview_link: 'https://drive.google.com/open?id=1_xwlUAPkVJ9PfVVwkUDBCKJ05DAo8CZA',
     cover_image: '',
     title: 'School Lunches',
     video_link: 'https://youtu.be/M1UQpDNx22s '
@@ -274,10 +274,9 @@ exports.media_announcements = [
         height: 1
       },
       title: 'PlantPure Stories: For Health Improvement',
-      description: 'Nelson Campbell, founder and CEO of PlantPure and director of PlantPure Nation, travels to the Vatican to share the plant-based message with top advisors to Pope Francis.',
+      description: 'Dr. Diego Ponieman works with Harlem residents to combat high blood pressure and diabetes through plant-based eating.',
       link: 'https://www.youtube.com/watch?v=FOyZUI2kcHk',
-      cover_image: '',
-      link_to_album: ''
+      cover_image: ''
     },
     {
       image_aspect: {
@@ -285,10 +284,9 @@ exports.media_announcements = [
         height: 1
       },
       title: 'PlantPure Stories: A Healthy Future',
-      description: '',
+      description: 'Haley promotes plant-based eating to elementary school students in Florence, SC.',
       link: 'https://www.youtube.com/watch?v=s9AAlKThzME',
-      cover_image: '',
-      link_to_album: ''
+      cover_image: ''    
     },
     {
       image_aspect: {
@@ -296,7 +294,7 @@ exports.media_announcements = [
         height: 1
       },
       title: 'PlantPure Stories: Physically and Emotionally Better',
-      description: '',
+      description: 'John is a former marine and BBQ lover who adopted a plant-based diet to protect the animals he once hunted.',
       link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
       cover_image: '',
       link_to_album: ''
@@ -307,7 +305,7 @@ exports.media_announcements = [
         height: 1
       },
       title: 'Confronting Reductionism Webinar',
-      description: '',
+      description: 'Confronting Reductionism - an interview with Dr. T. Colin Campbell.',
       link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
       cover_image: '',
       link_to_album: ''
@@ -321,7 +319,18 @@ exports.blogs = [
       height: 1
     },
     note: 'Ex. This should display on the home page banner left button',
-    title: '',
+    title: 'Feature Roadmap',
+    description: '',
+    link: '',
+    cover_image: ''
+  },
+  {
+    image_aspect: {
+      width: 2,
+      height: 1
+    },
+    note: 'Ex. This should display on the home page banner left button',
+    title: 'Introduction',
     description: '',
     link: '',
     cover_image: ''
