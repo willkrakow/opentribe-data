@@ -130,9 +130,9 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=18I49XRb7t9gziFvHoQQyz6dtXvQvPMy5',
-    strategy_overview_link: 'https://drive.google.com/open?id=1NqAAyylrQNpvftINA4-c_waUptx4QimQ',
+    strategy_overview_link: 'https://drive.google.com/open?id=1SHPx2LoS-mnfL9_D_hyszwq3zSY8c14j',
     cover_image: '',
-    title: 'Oasis',
+    title: 'Underserved Neighborhoods',
     video_link: 'https://www.youtube.com/watch?v=SVtSMXXQHZU'
   },
   {
