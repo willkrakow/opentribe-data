@@ -86,7 +86,7 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=1GBX1yRF90Oy1nfEgAW6KNHKNpZfNOUaR',
-    strategy_overview_link: 'https://drive.google.com/open?id=1me6qKhXNdaiRPDT4l05rA79Cy-iX27nN',
+    strategy_overview_link: 'https://drive.google.com/open?id=1jOul_Wi4UHrL4EGjNT6_zozB9eWbgnis',
     cover_image: 'https://cdn.pixabay.com/photo/2015/01/08/18/26/write-593333_1280.jpg',
     title: 'Employer Wellness',
     video_link: 'https://youtu.be/MKZbEdw1O1c'
