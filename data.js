@@ -53,7 +53,7 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=1qLRk8dkrMUz9Qod6Z8OZejVEEnHptGne',
-    strategy_overview_link: 'https://drive.google.com/open?id=1Qu2edgWjGTOy-fdFaaX3zCyWU5UMV8Km',
+    strategy_overview_link: 'https://drive.google.com/open?id=1k1sfcKlo-naF9emlo1zAsJ4QvsiJtjfj',
     cover_image: '',
     title: 'Seminar Campaign',
     video_link: 'https://youtu.be/jHV6nP-c_Dk'
@@ -64,7 +64,7 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=14nGeqKGEUwg0pZsEYzl8yopzMHTKV4sI',
-    strategy_overview_link: 'https://drive.google.com/open?id=1-k1luR2hdGcaueFciezfdnpnFXuT5Exe',
+    strategy_overview_link: 'https://drive.google.com/open?id=1S1qCAWiq1avMWCqGLVFDjNqrRKRiHNvb',
     cover_image: 'https://cdn.pixabay.com/photo/2017/07/23/16/01/nature-2531761_1280.jpg',
     title: 'Pod Network',
     video_link: 'https://youtu.be/UUTy9uWaHlQ'
@@ -75,7 +75,7 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=1yszpzaeKGL9sm2AjlfcDQ1GjVSJmT3iZ',
-    strategy_overview_link: 'https://drive.google.com/open?id=1E_yNBLGxHGD_dURDK-fHiHPGRCf9utpG',
+    strategy_overview_link: 'https://drive.google.com/open?id=1pDyqP-1C-KFZFB1wueSnSlkXYUwKPhGq',
     cover_image: 'https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     title: 'Healthcare Providers',
     video_link: 'https://www.youtube.com/watch?v=XmPFF_KFWYk'
@@ -86,9 +86,9 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=1GBX1yRF90Oy1nfEgAW6KNHKNpZfNOUaR',
-    strategy_overview_link: 'https://drive.google.com/open?id=1jOul_Wi4UHrL4EGjNT6_zozB9eWbgnis',
+    strategy_overview_link: 'https://drive.google.com/open?id=1LwI0O_AW1xXnqs9SYoybSxHbMXWUPOm4',
     cover_image: 'https://cdn.pixabay.com/photo/2015/01/08/18/26/write-593333_1280.jpg',
-    title: 'Employer Wellness',
+    title: 'Employers',
     video_link: 'https://youtu.be/MKZbEdw1O1c'
   },
   {
@@ -97,20 +97,9 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=1WjKFbX2ExDHAEuKvvU8PB4-Txvusye5T',
-    strategy_overview_link: 'https://drive.google.com/open?id=1QYMA_n3nxKAF17btICzVJgfpli8Q5ds9',
+    strategy_overview_link: 'https://drive.google.com/open?id=1ymqk7r-FOAtK9LCHhdVYW5JRXfLIcfdG',
     cover_image: 'https://cdn.pixabay.com/photo/2016/06/29/08/50/pencil-1486278_1280.jpg',
     title: 'Schools and Hospitals',
-    video_link: ''
-  },
-  {
-    image_aspect: {
-      width: 3,
-      height: 1
-    },
-    resource_link: '',
-    strategy_overview_link: '',
-    cover_image: 'https://cdn.pixabay.com/photo/2017/09/16/19/21/salad-2756467_1280.jpg',
-    title: 'Restaurant Campaign',
     video_link: ''
   },
   {
@@ -130,21 +119,10 @@ exports.projects = [
       height: 1
     },
     resource_link: 'https://drive.google.com/open?id=18I49XRb7t9gziFvHoQQyz6dtXvQvPMy5',
-    strategy_overview_link: 'https://drive.google.com/open?id=1SHPx2LoS-mnfL9_D_hyszwq3zSY8c14j',
+    strategy_overview_link: 'https://drive.google.com/open?id=1T7n6nIyMU7_T-kPv216kIhZH9P9TwR2_',
     cover_image: '',
     title: 'Underserved Neighborhoods',
     video_link: 'https://www.youtube.com/watch?v=SVtSMXXQHZU'
-  },
-  {
-    image_aspect: {
-      width: 3,
-      height: 1
-    },
-    resource_link: 'https://drive.google.com/open?id=1eN08fCoCAk_Oq2K-Y8xlcS3Fary1RkBP',
-    strategy_overview_link: 'https://drive.google.com/open?id=1_xwlUAPkVJ9PfVVwkUDBCKJ05DAo8CZA',
-    cover_image: '',
-    title: 'School Lunches',
-    video_link: 'https://youtu.be/M1UQpDNx22s '
   }
 ]
 
@@ -248,9 +226,9 @@ exports.media_announcements = [
         width: 4,
         height: 1
       },
-      title: '',
-      description: '',
-      link: '',
+      title: 'An interview with Dr. T. Colin Campbell on relationship between COVID-19 and nutrition',
+      description: 'We sat down (virtually, of course) with Dr. T. Colin Campbell, author of The China Study, to discuss how a plant-based diet can reduce your risk of severe infection from the novel coronavirus.',
+      link: 'https://vimeo.com/404831801',
       cover_image: '',
       link_to_album: ''
     }
@@ -304,8 +282,19 @@ exports.media_announcements = [
         width: 4,
         height: 1
       },
+      title: 'PlantPure Stories: For Speed',
+      description: 'Kera is a professional mountain biker who lives in a van so she can travel the country winning race after race. Her secret to success? She\'s fueled by a whole food, plant-based diet.',
+      link: 'https://www.youtube.com/watch?v=CqGv2v1_fjo',
+      cover_image: '',
+      link_to_album: ''
+    },
+    {
+      image_aspect: {
+        width: 4,
+        height: 1
+      },
       title: 'Confronting Reductionism Webinar',
-      description: 'Confronting Reductionism - an interview with Dr. T. Colin Campbell.',
+      description: 'Confronting Reductionism - An interview with Dr. T. Colin Campbell.',
       link: 'https://www.youtube.com/watch?v=lNCWTry6kYY',
       cover_image: '',
       link_to_album: ''
